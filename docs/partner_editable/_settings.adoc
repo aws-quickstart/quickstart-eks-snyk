@@ -1,9 +1,9 @@
 :quickstart-project-name: quickstart-eks-snyk
-:partner-product-name: Snyk Controller for Amazon EKS on the AWS Cloud
+:partner-product-name: Snyk Controller for Amazon EKS
 :custom_title:
 :partner-product-short-name: Snyk controller
 :partner-company-name: Snyk
-:doc-month: October
+:doc-month: November
 :doc-year: 2020
 :partner-contributors: Jay Yeras, {partner-company-name}
 :quickstart-contributors: Jay McConnell, AWS Quick Start team
